@@ -1,0 +1,38 @@
+/* --------------------- *\
+        DOCUMENTO
+\* --------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --back-color: ;
+    --platzi-color: ;
+    --platzi-colorhover: ;
+    --color-white: ;
+}
+
+  
+/* --------------------- *\
+           HEADER
+\* --------------------- */
+
+
+
+
+/* --------------------- *\
+           MAIN
+\* --------------------- */
+
+.container {
+    max-width: 90%;
+    height: auto;
+}
+
+
+/* --------------------- *\
+          FOOTER
+\* --------------------- */
